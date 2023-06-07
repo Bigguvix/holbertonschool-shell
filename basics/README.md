@@ -3,3 +3,5 @@
 1- This script will show all the content of the current directory.
 2- This script will take you to the home directory.
 3- This script will display contents in a long format.
+4- This script wil do the same as before but will display even more content.
+
